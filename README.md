@@ -49,7 +49,8 @@ This project analyzes store-level sales data from 2019 to 2023 to generate busin
 
 ## 📸 Sample Dashboard Preview
 
-<img width="1310" height="735" alt="Screenshot 2025-07-25 202833" src="https://github.com/user-attachments/assets/ed411e93-f195-4190-8c49-3b956e0eaa7b" />
+<img width="1310" height="735" alt="Screenshot 2025-07-25 202833" src="https://github.com/user-attachments/assets/f71ac28f-a7fd-40fb-ad94-148e03404869" />
+
 
 
 ---
